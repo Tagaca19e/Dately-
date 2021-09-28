@@ -15,7 +15,7 @@ class Calendar extends Component {
     this.state = {
       events: [],
       title: "",
-      start: "",
+    
       end: "",
       desc: "",
       openSlot: false,
