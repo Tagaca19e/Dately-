@@ -16,11 +16,7 @@ class Calendar extends Component {
       events: [],
       title: "",
     
-      end: "",
-      desc: "",
-      openSlot: false,
-      openEvent: false,
-      clickedEvent: {}
+   
     };
     this.handleClose = this.handleClose.bind(this);
   }
