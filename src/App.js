@@ -7,6 +7,8 @@ class App extends Component {
     return (
       <div className="App">
       <h1>Calendar Scheduler App</h1>
+      <h1>Calendar Scheduler App</h1>
+      
       
       </div>
     );
