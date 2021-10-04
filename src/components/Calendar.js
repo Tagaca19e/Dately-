@@ -18,7 +18,7 @@ class Calendar extends Component {
     
    
     };
-    this.handleClose = this.handleClose.bind(this);
+
   }
 
   // componentDidMount(){
