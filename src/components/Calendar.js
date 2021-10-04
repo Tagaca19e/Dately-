@@ -17,8 +17,7 @@ class Calendar extends Component {
       title: "",
     
    
-    };
-
+  
   }
 
   // componentDidMount(){
