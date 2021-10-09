@@ -1,6 +1,5 @@
 # Calendar Scheduler - React Application Project
 
-Link https://taylorsam209.github.io/calendar-scheduler/
 
 <p>• A front end web application built with React and the react-big-calendar library.</p>
 <p>• Material-ui library was utilized to create textfields for adding and editing appointments.</p>
